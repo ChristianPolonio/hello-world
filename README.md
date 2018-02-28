@@ -2,3 +2,4 @@
 Short description
 
 My name is Christian !
+<doc content="Test" />
